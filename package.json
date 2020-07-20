@@ -1,0 +1,24 @@
+{
+  "name": "too-many-eslint-alarms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-plugin-react": "^7.20.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcho/too-many-eslint-alarms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcho/too-many-eslint-alarms/issues"
+  },
+  "homepage": "https://github.com/wcho/too-many-eslint-alarms#readme"
+}
