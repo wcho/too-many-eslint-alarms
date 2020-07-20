@@ -1,7 +1,6 @@
 module.exports = {
     "env": {
-        "browser": true,
-        "ecmaVersion": 6
+        "browser": true
     },
     "extends": [
         "eslint:recommended",
@@ -11,7 +10,7 @@ module.exports = {
         "ecmaFeatures": {
             "jsx": true
         },
-        "ecmaVersion": 11,
+        "ecmaVersion": 6,
         "sourceType": "module"
     },
     "plugins": [
